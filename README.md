@@ -1,10 +1,10 @@
-# Growth Architecture Diagnostic Tool
+# "AI Governance Readiness Assessment 
 
-🎯 AI-powered diagnostic tool for B2B revenue architecture assessment.
+🎯 AI-powered diagnostic tool for B2B architecture assessment.
 
 ## 🌐 Live Demo
 
-**[Try the tool live →](https://www.negreflorian.com/tool-revenue-architecture-diagnostic)**
+**[Try the tool live →](https://www.negreflorian.com/tool-ai-governance-readiness-assessment)**
 
 ## 📊 Overview
 
@@ -54,7 +54,7 @@ This tool helps me:
 
 ## 📸 Screenshots
 
-![Diagnostic Tool Interface](https://www.negreflorian.com/tool-revenue-architecture-diagnostic)
+![Diagnostic Tool Interface](https://www.negreflorian.com/tool-ai-governance-readiness-assessment)
 
 *Interactive questionnaire with real-time scoring and AI-powered analysis*
 
