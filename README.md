@@ -1,4 +1,4 @@
-# "AI Governance Readiness Assessment 
+# AI Governance Readiness Assessment 
 
 🎯 AI-powered diagnostic tool for B2B architecture assessment.
 
